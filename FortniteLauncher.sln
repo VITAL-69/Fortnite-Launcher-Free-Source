@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cracked FortniteLauncher", "FortniteLauncher\Cracked FortniteLauncher.csproj", "{857D215D-DD78-455D-A396-563703D10BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857D215D-DD78-455D-A396-563703D10BC3}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Debug|Any CPU.Build.0 = Debug|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Debug|x64.ActiveCfg = Debug|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Debug|x64.Build.0 = Debug|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Release|Any CPU.ActiveCfg = Release|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Release|Any CPU.Build.0 = Release|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Release|Mixed Platforms.Build.0 = Release|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Release|x64.ActiveCfg = Release|x64
+		{857D215D-DD78-455D-A396-563703D10BC3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4FF854-9561-490C-9F29-E37BF8611C23}
+	EndGlobalSection
+EndGlobal
